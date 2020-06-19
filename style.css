@@ -1,0 +1,40 @@
+body {
+//add style
+}
+
+h1, h2, h3 {
+//add style 
+}
+
+
+
+header {
+ text-align: center ;
+ 
+  justify-content: center;
+}
+
+
+
+.counters {
+
+}
+
+span, p {
+  font-family:  sans-serif;
+  font-size: 18px;
+}
+
+.button {
+  background: #63da5f;
+    color: white;
+  border-radius: 8px;
+  border-width: 5px;
+  font-size: 20px;
+  margin-top: 20px;
+  outline: none;
+  padding: 15px;
+  
+}
+
+
